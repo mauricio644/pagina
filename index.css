@@ -1,0 +1,43 @@
+.tituloproductos{
+
+    color: white !important;
+    
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.divContenedor{
+    width: 1300px;
+    height: 900px;
+    left: 30px;
+    position: relative;
+    border: 5px solid; 
+    background: white;
+}
+.divIzquierda{
+    position: absolute;
+    top: 50px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+.divCentro{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 500px;
+}
+.imagen2{
+    width: 284px;
+    height: 237px;
+}
+.divQuieneSomos{
+    width: 1300px;
+    height: 900px;
+    left: 30px;
+    position: relative;
+    border: 5px solid; 
+    background: white;
+}
